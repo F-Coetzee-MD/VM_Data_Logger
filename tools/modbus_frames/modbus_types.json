@@ -1,0 +1,27 @@
+{
+    "Types": 
+    [
+        "CT", 
+        "Codesys"
+    ],
+    "CT":
+    [
+        "Transaction ID {16}",
+        "Protocol ID {16}",
+        "Length {16}",
+        "Unit ID {8}",
+        "Function Code {8}",
+        "(Menu and Parameter)-1 {16}",
+        "Data {16}"
+    ],
+    "Codedsys":
+    [
+        "Transaction ID {16}",
+        "Protocol ID {16}",
+        "Length {16}",
+        "Unit ID {8}",
+        "Function Code {8}",
+        "Register {16}",
+        "Data {16}"
+    ]
+}
